@@ -109,4 +109,4 @@ Allows users to sign up, log in, follow other users, post tweets, reply, retweet
    );
 
 ## Usage
-```python3 twitter.py path/to/microtweet.db```
+```bash python3 twitter.py path/to/microtweet.db```
